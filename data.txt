@@ -1,0 +1,11 @@
+Hello, World!
+Java
+Python
+Rust
+Kotlin
+TypeScript
+FORTRAN
+Pascal
+C/C++
+Haskell
+R
